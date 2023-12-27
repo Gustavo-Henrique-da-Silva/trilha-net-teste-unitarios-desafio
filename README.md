@@ -1,0 +1,1 @@
+# Trilha Net Testes Unitarios Desafio (Validações Listas e String)
